@@ -3,7 +3,6 @@ title: Twitch Streamer
 colors: colors-a
 layout: ProjectLayout
 date: '2019-04-12'
-client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
