@@ -62,7 +62,7 @@ sections:
       - type: Link
         label: Youtube
         altText: ''
-        url: /
+        url: 'https://www.youtube.com/c/EpistemicPolymath'
         showIcon: false
         icon: arrowRight
         iconPosition: right
