@@ -164,7 +164,7 @@ sections:
         label: Philosophy
         url: ''
       - type: Label
-        label: Label title
+        label: Science
         url: ''
     styles:
       self:
