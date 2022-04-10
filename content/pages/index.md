@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: Firebot
       - type: Label
-        label: Pancakes
+        label: Streaming
       - type: Label
         label: C++
       - type: Label
