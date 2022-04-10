@@ -225,6 +225,9 @@ sections:
       - type: Label
         label: Learning
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         height: auto
