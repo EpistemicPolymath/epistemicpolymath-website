@@ -33,6 +33,14 @@
             },
             {
                 "type": "Social",
+                "label": "Instagram",
+                "altText": "",
+                "url": "https://www.instagram.com/epistemicpolymath/",
+                "icon": "instagram",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "",
                 "url": "https://www.youtube.com/c/EpistemicPolymath",
                 "icon": "youtube",
@@ -45,14 +53,6 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/polymathical_",
                 "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "label": "Instagram",
-                "altText": "",
-                "url": "https://www.instagram.com/epistemicpolymath/",
-                "icon": "instagram",
-                "elementId": ""
             }
         ],
         "styles": {
