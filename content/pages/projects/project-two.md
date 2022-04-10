@@ -3,7 +3,9 @@ title: Twitch Streamer
 colors: colors-a
 layout: ProjectLayout
 date: '2019-04-12'
-description: 'I started Streaming '
+description: >-
+  I started Streaming in 2019 and it quickly became a passion of mine that I
+  hold dearly to me. I lo
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
