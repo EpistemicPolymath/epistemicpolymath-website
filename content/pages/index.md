@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Writing
       - type: Label
-        label: Swift
+        label: Reading
     styles:
       self:
         height: auto
