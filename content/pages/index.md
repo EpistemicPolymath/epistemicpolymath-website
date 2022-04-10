@@ -173,7 +173,7 @@ sections:
         label: Life and Relationships
         url: ''
       - type: Label
-        label: Label title
+        label: Personal Growth and Development
         url: ''
     styles:
       self:
