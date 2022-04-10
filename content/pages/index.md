@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: Microsoft Office
+        label: Quality Assurance
       - type: Label
         label: Next.js
       - type: Label
