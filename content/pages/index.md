@@ -81,7 +81,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Online Presence
+    subtitle: What I do...
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
