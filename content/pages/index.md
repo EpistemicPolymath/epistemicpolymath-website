@@ -207,7 +207,7 @@ sections:
     subtitle: Stuff I'd learned how to do...
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: JavaScript
       - type: Label
         label: React
       - type: Label
