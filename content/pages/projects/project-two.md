@@ -8,7 +8,7 @@ description: >-
   prioritize heavily.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/polypfp.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
