@@ -53,7 +53,7 @@ sections:
         url: /projects
       - type: Link
         label: Twitch
-        altText: ''
+        altText: Twitch Stream Page
         url: 'https://www.twitch.tv/EpistemicPolymath'
         showIcon: false
         icon: arrowRight
