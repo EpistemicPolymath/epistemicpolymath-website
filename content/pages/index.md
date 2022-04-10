@@ -204,7 +204,7 @@ sections:
     colors: colors-f
     elementId: ''
     title: Skills
-    subtitle: The section subtitle
+    subtitle: Stuff I'd learned how to do...
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
