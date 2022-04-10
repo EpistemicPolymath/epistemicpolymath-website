@@ -132,6 +132,48 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: LabelsSection
+    colors: colors-f
+    elementId: ''
+    title: Skills
+    subtitle: Stuff I'd learned how to do...
+    items:
+      - type: Label
+        label: JavaScript
+      - type: Label
+        label: Java
+      - type: Label
+        label: Quality Assurance
+      - type: Label
+        label: OBS Studio
+      - type: Label
+        label: Firebot
+      - type: Label
+        label: Streaming
+      - type: Label
+        label: Writing
+      - type: Label
+        label: Reading
+      - type: Label
+        label: Learning
+        url: ''
+      - type: Label
+        label: Full-time nerd
+        url: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -199,47 +241,5 @@ sections:
       title:
         textAlign: left
       text:
-        textAlign: left
-  - type: LabelsSection
-    colors: colors-f
-    elementId: ''
-    title: Skills
-    subtitle: Stuff I'd learned how to do...
-    items:
-      - type: Label
-        label: JavaScript
-      - type: Label
-        label: Java
-      - type: Label
-        label: Quality Assurance
-      - type: Label
-        label: OBS Studio
-      - type: Label
-        label: Firebot
-      - type: Label
-        label: Streaming
-      - type: Label
-        label: Writing
-      - type: Label
-        label: Reading
-      - type: Label
-        label: Learning
-        url: ''
-      - type: Label
-        label: Full-time nerd
-        url: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
         textAlign: left
 ---
