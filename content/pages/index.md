@@ -175,6 +175,9 @@ sections:
       - type: Label
         label: Personal Growth and Development
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         height: auto
