@@ -16,9 +16,8 @@ sections:
       I'm a Twitch Streamer, Software Quality Assurance Tester, Gamer, Learner,
       and Nerd.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my site-my info so you can get to know me and what I do a little
+      more. Welcome to my mind. Poly's Mind.
     styles:
       self:
         height: auto
