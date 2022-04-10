@@ -45,6 +45,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/EpistemicPolymath",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
