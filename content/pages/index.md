@@ -169,6 +169,9 @@ sections:
       - type: Label
         label: Psychology
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         height: auto
