@@ -176,7 +176,7 @@ sections:
         label: Personal Growth and Development
         url: ''
       - type: Label
-        label: Label title
+        label: Mental Health
         url: ''
     styles:
       self:
