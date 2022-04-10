@@ -160,6 +160,9 @@ sections:
       - type: Label
         label: Full-time nerd
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         height: auto
