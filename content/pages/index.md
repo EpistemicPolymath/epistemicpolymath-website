@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: PageLayout
-colors: colors-b
+colors: colors-a
 backgroundImage:
   url: /images/bg1.jpg
   backgroundSize: cover
