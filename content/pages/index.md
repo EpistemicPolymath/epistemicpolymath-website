@@ -60,7 +60,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Youtube
         altText: ''
         url: /
         showIcon: false
