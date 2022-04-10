@@ -3,10 +3,7 @@ title: Twitch Streamer
 colors: colors-a
 layout: ProjectLayout
 date: '2019-04-12'
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: 'I started Streaming '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
