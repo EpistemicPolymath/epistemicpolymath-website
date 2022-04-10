@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 colors: colors-a
 backgroundImage:
-  url: /images/polypfpcrop.png
+  url: /images/Nikon-d3200-me-5.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
