@@ -52,7 +52,7 @@ sections:
         label: See all projects
         url: /projects
       - type: Link
-        label: Learn more
+        label: Twitch
         altText: ''
         url: /
         showIcon: false
