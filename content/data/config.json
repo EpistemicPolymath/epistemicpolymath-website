@@ -26,7 +26,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Facebook",
                 "altText": "",
                 "url": "/",
                 "icon": "facebook",
