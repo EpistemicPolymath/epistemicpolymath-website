@@ -48,14 +48,6 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "label": "Instagram",
                 "altText": "",
                 "url": "https://www.instagram.com/epistemicpolymath/",
