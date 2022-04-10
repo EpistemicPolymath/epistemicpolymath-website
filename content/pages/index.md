@@ -54,7 +54,7 @@ sections:
       - type: Link
         label: Twitch
         altText: ''
-        url: /
+        url: '/https://www.twitch.tv/EpistemicPolymath'
         showIcon: false
         icon: arrowRight
         iconPosition: right
