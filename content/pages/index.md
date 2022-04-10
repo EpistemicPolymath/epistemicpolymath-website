@@ -136,7 +136,7 @@ sections:
     colors: colors-f
     elementId: ''
     title: Skills
-    subtitle: Stuff I'd learned how to do...
+    subtitle: Stuff I like to learn about or do...
     items:
       - type: Label
         label: JavaScript
