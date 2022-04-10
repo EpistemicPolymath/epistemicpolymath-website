@@ -29,7 +29,8 @@
                 "altText": "",
                 "url": "/",
                 "icon": "facebook",
-                "elementId": ""
+                "elementId": "",
+                "label": "Youtube"
             },
             {
                 "type": "Social",
