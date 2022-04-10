@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: Reading
       - type: Label
-        label: Label title
+        label: Learning
         url: ''
     styles:
       self:
