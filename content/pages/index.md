@@ -172,6 +172,9 @@ sections:
       - type: Label
         label: Life and Relationships
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         height: auto
