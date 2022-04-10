@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: Quality Assurance
       - type: Label
-        label: Next.js
+        label: OBS Studio
       - type: Label
         label: Stackbit
       - type: Label
