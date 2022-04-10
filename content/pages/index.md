@@ -222,6 +222,9 @@ sections:
         label: Writing
       - type: Label
         label: Reading
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         height: auto
