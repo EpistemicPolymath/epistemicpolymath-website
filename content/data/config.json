@@ -26,6 +26,13 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/EpistemicPolymath",
+                "icon": "github"
+            },
+            {
+                "type": "Social",
                 "altText": "",
                 "url": "https://www.youtube.com/c/EpistemicPolymath",
                 "icon": "youtube",
@@ -38,13 +45,6 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/polymathical_",
                 "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/EpistemicPolymath",
-                "icon": "github"
             },
             {
                 "type": "Social",
