@@ -1,6 +1,6 @@
 ---
 title: Twitch Streamer
-colors: colors-a
+colors: colors-b
 layout: ProjectLayout
 date: '2019-04-12'
 description: >-
