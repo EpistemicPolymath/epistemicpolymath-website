@@ -163,6 +163,9 @@ sections:
       - type: Label
         label: Philosophy
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     styles:
       self:
         height: auto
