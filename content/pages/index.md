@@ -215,7 +215,7 @@ sections:
       - type: Label
         label: OBS Studio
       - type: Label
-        label: Stackbit
+        label: Firebot
       - type: Label
         label: Pancakes
       - type: Label
