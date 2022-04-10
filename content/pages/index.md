@@ -161,7 +161,7 @@ sections:
         label: Full-time nerd
         url: ''
       - type: Label
-        label: Label title
+        label: Philosophy
         url: ''
     styles:
       self:
