@@ -226,7 +226,7 @@ sections:
         label: Learning
         url: ''
       - type: Label
-        label: Label title
+        label: Full-time nerd
         url: ''
     styles:
       self:
