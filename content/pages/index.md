@@ -4,7 +4,7 @@ layout: PageLayout
 colors: colors-a
 backgroundImage:
   url: /images/bg1.jpg
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
