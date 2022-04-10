@@ -219,7 +219,7 @@ sections:
       - type: Label
         label: Streaming
       - type: Label
-        label: C++
+        label: Writing
       - type: Label
         label: Swift
     styles:
