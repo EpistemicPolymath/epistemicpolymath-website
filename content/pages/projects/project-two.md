@@ -10,6 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/polypfp.png
   altText: Project thumbnail image
+  caption: twitch.tv/EpistemicPolymath
 media:
   type: ImageBlock
   url: /images/bg2.jpg
