@@ -5,7 +5,7 @@ layout: ProjectLayout
 date: '2019-04-12'
 description: >-
   I started Streaming in 2019 and it quickly became a passion of mine that I
-  prioritize heavily
+  prioritize heavily.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
