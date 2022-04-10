@@ -167,7 +167,7 @@ sections:
         label: Science
         url: ''
       - type: Label
-        label: Label title
+        label: Psychology
         url: ''
     styles:
       self:
