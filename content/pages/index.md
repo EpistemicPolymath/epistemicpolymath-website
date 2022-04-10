@@ -170,7 +170,7 @@ sections:
         label: Psychology
         url: ''
       - type: Label
-        label: Label title
+        label: Life and Relationships
         url: ''
     styles:
       self:
