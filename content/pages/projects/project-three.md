@@ -5,9 +5,8 @@ layout: ProjectLayout
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I am working on making more Youtube content. I want to build my Youtube around
+  my speedrunning, what I am
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
