@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Name",
+    "lastName": "Surname",
+    "role": "Role",
+    "bio": "With over 10 years in both public and private sectors, Johnna has experience in management consultation, team building, professional development, strategic implementation, and company collaboration.",
+    "image": {
+        "url": "https://assets.stackbit.com/components/images/default/default-person.png",
+        "altText": "Person photo"
+    }
+}
