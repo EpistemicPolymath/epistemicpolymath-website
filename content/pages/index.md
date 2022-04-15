@@ -65,7 +65,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Twitter
         altText: ''
         url: /
         showIcon: false
