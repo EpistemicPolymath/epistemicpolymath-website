@@ -14,8 +14,7 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Projects"
             },
             {
                 "type": "Link",
