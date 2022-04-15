@@ -71,7 +71,8 @@
                 "label": "Writings",
                 "url": "/writings",
                 "altText": "",
-                "icon": "arrowRight"
+                "icon": "arrowRight",
+                "showIcon": true
             },
             {
                 "type": "Link",
