@@ -9,7 +9,7 @@ featuredImage:
   altText: 'An image of poly posing '
 media:
   url: /images/PXL_20220111_221753566.PORTRAIT.jpg
-  altText: altText of the image
+  altText: Poly posing
   caption: Caption of the image
   elementId: ''
   type: ImageBlock
