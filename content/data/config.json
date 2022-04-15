@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/polypfp.png",
+    "favicon": "/images/polypfpcrop.png",
     "header": {
         "headerVariant": "variant-c",
         "isSticky": false,
