@@ -66,7 +66,7 @@ sections:
         elementId: ''
       - type: Link
         label: Twitter
-        altText: ''
+        altText: Epistemicpolymath's Twitter Link
         url: /
         showIcon: false
         icon: arrowRight
