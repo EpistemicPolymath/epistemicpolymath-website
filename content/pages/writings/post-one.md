@@ -3,7 +3,6 @@ title: Welcome to Poly's Mind
 colors: colors-a
 layout: PostLayout
 date: '2022-04-15'
-author: content/data/team/doris-soto.json
 featuredImage:
   type: ImageBlock
   url: /images/PXL_20220111_221753566.PORTRAIT.jpg
