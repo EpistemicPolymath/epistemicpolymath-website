@@ -10,7 +10,7 @@
             {
                 "type": "Link",
                 "label": "Writings",
-                "url": "/blog"
+                "url": "/writings"
             }
         ],
         "socialLinks": [
