@@ -20,7 +20,7 @@ contentModels:
   PostLayout:
     isPage: true
     urlPath: '/writings/{slug}'
-    newFilePath: 'blog/{slug}.md'
+    newFilePath: 'writings/{slug}.md'
   Person:
     newFilePath: 'team/{slug}.json'
   PostFeedLayout:
