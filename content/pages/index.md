@@ -250,7 +250,6 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-          label: Tell me about yourself...
         - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
