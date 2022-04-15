@@ -246,7 +246,7 @@ sections:
           type: EmailFormControl
         - name: Tell me about yourself...
           hideLabel: true
-          placeholder: Address
+          placeholder: Tell me about yourself...
           isRequired: true
           width: full
           type: TextFormControl
