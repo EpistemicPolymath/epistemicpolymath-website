@@ -177,7 +177,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    showAuthor: true
+    showAuthor: false
   - type: LabelsSection
     colors: colors-f
     elementId: ''
