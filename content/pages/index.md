@@ -74,7 +74,7 @@ sections:
         elementId: ''
       - type: Link
         label: Instagram
-        altText: ''
+        altText: Epis
         url: 'https://www.instagram.com/epistemicpolymath/'
         showIcon: false
         icon: arrowRight
