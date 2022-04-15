@@ -3,7 +3,7 @@ layout: PostFeedLayout
 title: Writings
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: /images/Nikon-d3200-me-3.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
