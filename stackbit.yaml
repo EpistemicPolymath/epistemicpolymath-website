@@ -27,7 +27,7 @@ contentModels:
     isPage: true
     singleInstance: true
     urlPath: '/writings'
-    file: 'blog/index.md'
+    file: 'writings/index.md'
     newFilePath: 'blog/index.md'
   ProjectLayout:
     isPage: true
