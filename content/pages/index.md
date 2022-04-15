@@ -68,7 +68,7 @@ sections:
         label: Twitter
         altText: EpistemicPolymath's Twitter Link
         url: 'https://twitter.com/polymathical_'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
