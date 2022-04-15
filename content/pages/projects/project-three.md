@@ -5,8 +5,9 @@ layout: ProjectLayout
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  I am working on making more Youtube content. I want to build my Youtube around
-  my speedrunning, what I am
+  I want to build my Youtube around my speedrunning, what I am currently
+  learning and passionate about, and talking about various issues surrounding
+  mental health, disability issues, psychology, philosophy, and more!
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
