@@ -109,6 +109,7 @@ bottomSections:
         textAlign: left
 excerpt: Introduction
 author: content/data/team/person-clzby8x2c.json
+metaTitle: Why I write
 ---
 # Welcome to Poly's Mind... My mind
 
