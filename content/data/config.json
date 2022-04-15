@@ -83,7 +83,8 @@
                 "label": "GitHub",
                 "url": "https://github.com/EpistemicPolymath",
                 "altText": "",
-                "icon": "arrowRight"
+                "icon": "arrowRight",
+                "showIcon": true
             }
         ],
         "contacts": {
