@@ -2,7 +2,7 @@
 title: Welcome to Poly's Mind
 colors: colors-a
 layout: PostLayout
-date: '2021-07-28'
+date: '2022-04-28'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
