@@ -14,10 +14,6 @@
             },
             {
                 "type": "Link",
-                "label": "Projects"
-            },
-            {
-                "type": "Link",
                 "label": "Writings",
                 "url": "/blog"
             }
