@@ -70,7 +70,8 @@
                 "type": "Link",
                 "label": "Writings",
                 "url": "/writings",
-                "altText": ""
+                "altText": "",
+                "icon": "arrowRight"
             },
             {
                 "type": "Link",
