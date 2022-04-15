@@ -72,6 +72,14 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
