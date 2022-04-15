@@ -49,9 +49,6 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
-      - type: Link
         label: Twitch
         altText: Twitch Stream Page
         url: 'https://www.twitch.tv/EpistemicPolymath'
