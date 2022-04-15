@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Poly's Mind Home
 layout: PageLayout
 colors: colors-a
 backgroundImage:
