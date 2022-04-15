@@ -8,7 +8,7 @@ featuredImage:
   url: /images/PXL_20220111_221753566.PORTRAIT.jpg
   altText: 'An image of poly posing '
 media:
-  url: /images/post-2.jpg
+  url: /images/PXL_20220111_221753566.PORTRAIT.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
