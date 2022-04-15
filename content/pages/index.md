@@ -13,8 +13,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I'm a Twitch Streamer, Software Quality Assurance Tester, Gamer, Learner,
-      and Nerd.
+      I'm an Autistic Twitch Streamer, Software Quality Assurance Tester, Gamer,
+      Learner, and Nerd.
     subtitle: >-
       This is my site-my info so you can get to know me and what I do a little
       more. Welcome to my mind. Poly's Mind.
