@@ -9,7 +9,7 @@ description: >-
   or increase my knowledge surrounding OBS Studio and plugins, FireBot, VACs,
   Audio devices and technologies, Video technologies, and more. I want to
   improve my stream as much as I possibly can and I love connecting with my
-  supporters and having very in-depth conversations.
+  supporters and having very in-depth conversations with them.
 featuredImage:
   type: ImageBlock
   url: /images/polypfp.png
