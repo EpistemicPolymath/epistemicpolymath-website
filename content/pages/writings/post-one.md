@@ -111,10 +111,7 @@ excerpt: Introduction
 author: content/data/team/person-clzby8x2c.json
 metaTitle: Why I write
 metaDescription: Autistic Writers
-metaTags:
-  - type: MetaTag
-    property: 'og:title'
-    content: ''
+metaTags: []
 ---
 # Welcome to Poly's Mind... My mind
 
