@@ -111,6 +111,32 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: What I do...
+  - type: QuoteSection
+    colors: colors-f
+    elementId: ''
+    quote: |
+      “All progress is good progress.”
+    name: '- Poly'
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        fontStyle: normal
+        textAlign: center
+      title:
+        fontWeight": 400
+        fontStyle: normal
+        textAlign: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -153,32 +179,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: QuoteSection
-    colors: colors-f
-    elementId: ''
-    quote: |
-      “All progress is good progress.”
-    name: '- Poly'
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        fontWeight": 500
-        fontStyle: normal
-        textAlign: center
-      title:
-        fontWeight": 400
-        fontStyle: normal
-        textAlign: center
   - type: LabelsSection
     colors: colors-f
     elementId: ''
