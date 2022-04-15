@@ -283,9 +283,8 @@ sections:
   - type: QuoteSection
     colors: colors-f
     elementId: ''
-    quote: >-
-      “We think coding should be required in every school because it's as
-      important as any kind of second language.”
+    quote: |
+      “All progress is good progress.”
     name: '- Poly'
     styles:
       self:
