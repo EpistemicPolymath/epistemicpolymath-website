@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/brain.jpg",
+    "favicon": "/images/polypfp.png",
     "header": {
         "headerVariant": "variant-c",
         "isSticky": false,
