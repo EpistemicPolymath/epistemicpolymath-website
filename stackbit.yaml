@@ -28,7 +28,7 @@ contentModels:
     singleInstance: true
     urlPath: '/writings'
     file: 'writings/index.md'
-    newFilePath: 'blog/index.md'
+    newFilePath: 'wrings/index.md'
   ProjectLayout:
     isPage: true
     urlPath: '/projects/{slug}'
