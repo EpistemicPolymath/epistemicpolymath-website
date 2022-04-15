@@ -141,7 +141,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Posts
+    subtitle: Writings
     showFeaturedImage: false
     actions:
       - type: Link
