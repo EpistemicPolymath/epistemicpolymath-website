@@ -147,7 +147,8 @@ sections:
       - type: Link
         label: See all posts
         url: /writings
-    posts: []
+    posts:
+      - content/pages/writings/post-one.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
