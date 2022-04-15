@@ -75,7 +75,7 @@ sections:
       - type: Link
         label: Instagram
         altText: ''
-        url: /
+        url: 'https://www.instagram.com/epistemicpolymath/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
