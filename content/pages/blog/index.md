@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog
+title: Writings
 colors: colors-a
 backgroundImage:
   url: /images/bg2.jpg
