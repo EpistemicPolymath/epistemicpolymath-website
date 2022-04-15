@@ -72,7 +72,8 @@
                 "url": "/writings",
                 "altText": "",
                 "icon": "arrowRight",
-                "showIcon": true
+                "showIcon": true,
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
