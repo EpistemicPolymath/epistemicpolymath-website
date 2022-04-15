@@ -110,6 +110,7 @@ bottomSections:
 excerpt: Introduction
 author: content/data/team/person-clzby8x2c.json
 metaTitle: Why I write
+metaDescription: 'Autistic Bloggers '
 ---
 # Welcome to Poly's Mind... My mind
 
