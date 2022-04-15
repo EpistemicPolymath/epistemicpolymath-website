@@ -148,7 +148,6 @@ sections:
         label: See all posts
         url: /writings
     posts:
-      - content/pages/blog/post-six.md
       - content/pages/blog/post-one.md
     showDate: true
     showExcerpt: true
