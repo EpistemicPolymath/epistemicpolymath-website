@@ -12,7 +12,7 @@ numOfPostsPerPage: 10
 postFeed:
   colors: colors-f
   showDate: true
-  showAuthor: false
+  showAuthor: true
   showExcerpt: true
   showFeaturedImage: true
   showReadMoreLink: true
