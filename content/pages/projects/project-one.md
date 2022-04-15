@@ -5,9 +5,11 @@ layout: ProjectLayout
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I love to learn and am very inquisitive. My areas of interest include:
+  personal development, mental health, disability issues, various topics in
+  science, writing, psychology, philosophy, and communication + relationships. I
+  love to read books and write about what I learn and what helps me learn
+  efficiently.
 featuredImage:
   type: ImageBlock
   url: /images/brain.jpg
